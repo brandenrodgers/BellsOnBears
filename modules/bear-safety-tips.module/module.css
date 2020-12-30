@@ -1,0 +1,18 @@
+
+#bear-safety-tips-module {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#bear-safety-tips-module .bear-safety-tips-text {
+  margin-bottom: 1rem;
+}
+
+#bear-safety-tips-module .bear-safety-tips-text p {
+  background-color: white;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
